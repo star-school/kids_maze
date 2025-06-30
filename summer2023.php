@@ -25,14 +25,14 @@
 <div class="icon_wrap">
     <div class="icon_inside">
     めいろ(1)
-        <a href="summer2023/めいろ(1).sjr" target="_blank"><img src="images/icon_tmp.png"></a>
-        <a href="summer2023/めいろ(1)完成.sjr" target="_blank"><img src="images/icon_sample.png"></a>
+        <a href="めいろ(1).sjr" target="_blank"><img src="images/icon_tmp.png"></a>
+        <a href="めいろ(1)完成.sjr" target="_blank"><img src="images/icon_sample.png"></a>
 
     </div>
     <div class="icon_inside">
     めいろ(2)
-        <a href="summer2023/めいろ(2).sjr" target="_blank"><img src="images/icon_tmp.png"></a>
-        <a href="summer2023/めいろ(2)完成.sjr" target="_blank"><img src="images/icon_sample.png"></a>
+        <a href="めいろ(2).sjr" target="_blank"><img src="images/icon_tmp.png"></a>
+        <a href="めいろ(2)完成.sjr" target="_blank"><img src="images/icon_sample.png"></a>
 	</div>
 </div>
 </div>
